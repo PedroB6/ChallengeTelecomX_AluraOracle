@@ -29,7 +29,7 @@ Dado que la empresa enfrenta una alta tasa de cancelaciones, se necesita compren
 
 # 3. Estructura del proyecto y organización de los archivos
 
-1. Con la librería de pandas se leen en el Google Colab los archivos CSV que contienen información de las 4 tiendas en 4 archivos diferentes.
+1. Con la librería de pandas se leen en el Google Colab el archivo json.
 2. Se comprendió la información que contiene cada columna, para entender los datos.
 3. Se generaron algunos gráficos de interés.
 
