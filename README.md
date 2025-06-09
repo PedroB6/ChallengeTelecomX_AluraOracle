@@ -35,10 +35,10 @@ Dado que la empresa enfrenta una alta tasa de cancelaciones, se necesita compren
 
 # 4. Ejemplos de gráficos e insights obtenidos
 
-Distribuido en clientes que abandonaron o no, como se dividió por tipo de contrato
+Distribuido en clientes que abandonaron o no, como se dividió por método de pago
 ![distibucion_evasionesPorMetodoPago](./img/distibucion_evasionesPorMetodoPago.png)
 
-Distribuido en clientes que abandonaron o no, como se dividió por método de pago
+Distribuido en clientes que abandonaron o no, como se dividió por tipo de contrato
 ![distibucion_evasionesPorContrato](./img/distibucion_evasionesPorContrato.png)
 
 
